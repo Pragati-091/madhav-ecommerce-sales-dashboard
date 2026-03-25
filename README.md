@@ -1,32 +1,36 @@
-# Madhav E-Commerce Sales Dashboard
+# Madhav E-Commerce Sales Dashboard | Power BI
 
-## Dashboard Preview
-![Dashboard](madhav-ecommerce-dashboard.png)
 
 ## Overview
-Interactive Power BI dashboard analyzing e-commerce sales
-data across Indian states, product categories and payment modes.
+
+Interactive Power BI dashboard analyzing e-commerce sales data across Indian states, product categories, payment modes, and customer trends.
 
 ## Key Metrics
-| Metric | Value |
-|--------|-------|
-| Total Revenue | ₹3,789 |
-| Total Quantity Sold | 87 |
-| Total Profit | ₹536 |
+
+| Metric              | Value    |
+| ------------------- | -------- |
+| Total Revenue       | ₹161,000 |
+| Total Quantity Sold | 2,008    |
+| Total Profit        | ₹26,000  |
 
 ## Features
-- Quarter-wise filtering (Q1 to Q4)
-- State-wise sales breakdown
-- Category and sub-category profit analysis
-- Payment mode distribution (COD, UPI, Debit, Credit)
-- Customer-level sales insight
-- ## Tools Used
-- Power BI Desktop
-- Power Query (Data Cleaning)
-- Data Modeling
-- Interactive Filters & Slicers
+
+* Quarter-wise filtering (Q1 to Q4)
+* State-wise sales breakdown
+* Category and sub-category profit analysis
+* Payment mode distribution (COD, UPI, Debit Card, Credit Card, EMI)
+* Customer-level sales insights
+* Monthly profit trend analysis
+
+## Tools Used
+
+* Power BI Desktop
+* Power Query (Data Cleaning & Transformation)
+* Data Modeling
+* Interactive Filters & Slicers
 
 ## How to View
-1. Download the `.pbix` file from this repo
-2. Open with Power BI Desktop (free download)
-3. Explore the interactive dashboard freely
+
+1. Download the `.pbix` file from this repository
+2. Open it using **Power BI Desktop**
+3. Explore the interactive dashboard using filters and visuals
