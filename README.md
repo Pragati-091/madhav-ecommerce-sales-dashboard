@@ -19,12 +19,12 @@ data across Indian states, product categories and payment modes.
 - State-wise sales breakdown
 - Category and sub-category profit analysis
 - Payment mode distribution (COD, UPI, Debit, Credit)
-- Customer-level sales insights
-
-## Tools Used
+- Customer-level sales insight
+- ## Tools Used
 - Power BI Desktop
-- DAX (Data Analysis Expressions)
+- Power Query (Data Cleaning)
 - Data Modeling
+- Interactive Filters & Slicers
 
 ## How to View
 1. Download the `.pbix` file from this repo
